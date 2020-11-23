@@ -57,7 +57,9 @@ Cross-talk happens when two wires get routed very close to each other. Such cros
 In real clock, all the possible delays such as wire dealys are considred. To provide proper voltage levels of clock signal to different blocks, repeaters are added in their path. At this stage, STA is performed with the modified set-up/hold time equation which includes all the clock network delays. Eventually, STA is done to ensure that clock skew is zero or positive where clock skew is the difference between clock network delay at launch FF and clock network delay at capture FF.
 
 ### Lab Assessment
-The abovementioned theoretical concepts were made us to understand via carrying out in Qflow.
+The abovementioned theoretical concepts were made us to understand via carrying out STA in Qflow. The lab details that includes STA commands and analysis are as follows:
+
+
 
 
 
