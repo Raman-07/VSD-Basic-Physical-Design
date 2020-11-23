@@ -58,7 +58,7 @@ In real clock, all the possible delays such as wire dealys are considred. To pro
 
 ### Lab Assessment
 The abovementioned theoretical concepts were made us to understand via carrying out STA in Qflow. The lab details that includes STA commands and analysis are as follows:
-https://github.com/Raman-07/VSD-Basic-Physical-Design/master/day_1_yosys.JPG
+![Sta_commands](https://user-images.githubusercontent.com/74891183/99998273-6d088380-2de4-11eb-8dae-b6a0eac91137.JPG)
 
 
 
